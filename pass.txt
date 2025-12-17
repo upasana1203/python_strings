@@ -1,3 +1,0 @@
-name = youtube
-pass = rFGgRMkqxRCFUTQx
-mongodb+srv://youtube:<db_password>@cluster0.j8qaxxp.mongodb.net/
